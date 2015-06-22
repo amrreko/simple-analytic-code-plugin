@@ -31,6 +31,7 @@ http://i.imgur.com/mVO3hCV.png
 This plugin it's released under the GPLv2, you can use it free of charge on your personal or commercial website.
 
 == Changelog ==
+http://azstart.com/wordpress/plugins/simple_analytics_code_plugin/
 https://github.com/amrreko/simple-analytic-code-plugin/archive/master.zip
 = 1.0 =
 - First code
