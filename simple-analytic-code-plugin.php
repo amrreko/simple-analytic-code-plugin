@@ -25,7 +25,7 @@ $analytic = "<script>
 	return $analytic;
 }
 function simple_analytics_code_plugin() {
-echo simple_analytics_ua('UA-21704902-1');//UA-xxxxxxxx-x
+echo simple_analytics_ua('UA-xxxxxxxx-x');//UA-xxxxxxxx-x  Google analytics code
 }
 
 //add_action('wp_head','simple_analytics_code_plugin'); //use one line - do code in header
